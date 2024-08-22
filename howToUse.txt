@@ -1,0 +1,4 @@
+You have to have all the proper python extensions in use to work with the API and downloading tools - this is what makes this work.
+You need to set up a youtube API from GoogleCloud and get credentials from there - this is how you're able to actually download the videos straight from youtube rather than using some scuffed third party app.
+You need to use ffmpeg and instantiate it into your path environmental variable - this allows for the highest visual and audio quality to be downloaded.
+You get channel IDs from going onto the youtuber's page and clicking share channel --> copy channel ID. The channel ID is a unique identifier - it is not just the channel name.
